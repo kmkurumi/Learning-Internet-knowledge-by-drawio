@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T04:13:07.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="cndNFauG-Bge-ad4J1YW" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T13:42:52.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="HDB4lHdUP_U3obkcwbzm" version="14.9.0" type="github">
   <diagram id="rDdBpDqi4RxHb2UsrFF-" name="Hibernate">
-    <mxGraphModel dx="950" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GRbLOctInRLQ35KNLS4D-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GRbLOctInRLQ35KNLS4D-1" target="GRbLOctInRLQ35KNLS4D-2">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GRbLOctInRLQ35KNLS4D-1" target="GRbLOctInRLQ35KNLS4D-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GRbLOctInRLQ35KNLS4D-1" value="&lt;font size=&quot;3&quot;&gt;Session Factory&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-1" value="&lt;font size=&quot;3&quot;&gt;Session Factory&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GRbLOctInRLQ35KNLS4D-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GRbLOctInRLQ35KNLS4D-2" target="GRbLOctInRLQ35KNLS4D-3">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GRbLOctInRLQ35KNLS4D-2" target="GRbLOctInRLQ35KNLS4D-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GRbLOctInRLQ35KNLS4D-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.586;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GRbLOctInRLQ35KNLS4D-2" target="GRbLOctInRLQ35KNLS4D-7">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.586;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GRbLOctInRLQ35KNLS4D-2" target="GRbLOctInRLQ35KNLS4D-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="205" y="70" />
@@ -21,34 +21,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GRbLOctInRLQ35KNLS4D-2" value="&lt;font size=&quot;3&quot;&gt;Session&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-2" value="&lt;font size=&quot;3&quot;&gt;Session&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="100" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GRbLOctInRLQ35KNLS4D-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GRbLOctInRLQ35KNLS4D-3" target="GRbLOctInRLQ35KNLS4D-7">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GRbLOctInRLQ35KNLS4D-3" target="GRbLOctInRLQ35KNLS4D-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GRbLOctInRLQ35KNLS4D-3" value="&lt;font size=&quot;3&quot;&gt;Transaction&lt;br&gt;Session&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-3" value="&lt;font size=&quot;3&quot;&gt;Transaction&lt;br&gt;Session&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="100" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GRbLOctInRLQ35KNLS4D-4" value="&lt;font size=&quot;3&quot;&gt;Close&lt;br&gt;Session Factory&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-4" value="&lt;font size=&quot;3&quot;&gt;Close&lt;br&gt;Session Factory&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="101" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GRbLOctInRLQ35KNLS4D-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GRbLOctInRLQ35KNLS4D-7" target="GRbLOctInRLQ35KNLS4D-4">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GRbLOctInRLQ35KNLS4D-7" target="GRbLOctInRLQ35KNLS4D-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GRbLOctInRLQ35KNLS4D-7" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-7" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="420" y="96" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GRbLOctInRLQ35KNLS4D-8" value="DataBase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-8" value="DataBase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
           <mxGeometry x="40" y="70" width="70" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="GRbLOctInRLQ35KNLS4D-11" value="Query" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-11" value="Query" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
           <mxGeometry x="290" y="30" width="70" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="GRbLOctInRLQ35KNLS4D-14" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="GRbLOctInRLQ35KNLS4D-14" value="" style="swimlane;startSize=0;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="400" y="210" width="50" height="40" as="geometry">
             <mxRectangle x="400" y="210" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_WVJiM-YS2bVTx3nGfe-1" value="Java爪哇咖啡&lt;br&gt;jar 罐&lt;br&gt;bean 豆子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_WVJiM-YS2bVTx3nGfe-2" value="加入寒士庫 添加cinfig&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="540" width="255" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_WVJiM-YS2bVTx3nGfe-3" value="類別名稱 data0 = new 類別名稱&amp;nbsp;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="230" width="255" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_WVJiM-YS2bVTx3nGfe-4" value="spring減少偶合度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="255" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
